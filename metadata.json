@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Chronos Journal",
+  "description": "An iOS-styled infinite chronological journaling app with AI-powered speech-to-text capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

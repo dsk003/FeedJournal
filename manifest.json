@@ -1,0 +1,21 @@
+{
+  "name": "Chronos Journal",
+  "short_name": "Chronos",
+  "description": "Infinite chronological journaling with AI transcription.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#F2F2F7",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/google-keep.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/google-keep.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

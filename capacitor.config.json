@@ -1,0 +1,14 @@
+{
+  "appId": "com.chronos.journal",
+  "appName": "Chronos Journal",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
